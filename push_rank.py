@@ -2,7 +2,7 @@ import threading
 import requests
 import os
 import time, json, datetime
-
+-
 print('-- Tipe Ronde --')
 print('1. Ronde 3 (Tereliminasi)')
 print('2. Juara 1 (Mahkota)')
